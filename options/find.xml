@@ -1,0 +1,21 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/home/kieran/PhpstormProjects/old_simitive/www/sites/all/modules/contrib/mailmime/mailmime.inc'" />
+    <option name="defaultScopeName" value="File '/home/kieran/PhpstormProjects/old_simitive/www/sites/all/modules/contrib/mailmime/mailmime.inc'" />
+    <option name="SEARCH_SCOPE" value="File '/home/kieran/PhpstormProjects/old_simitive/www/sites/all/modules/contrib/mailmime/mailmime.inc'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>.yml</mask>
+      <mask>*.yml</mask>
+      <mask>*.xml</mask>
+    </recentFileMasks>
+  </component>
+</application>

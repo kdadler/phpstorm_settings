@@ -1,0 +1,72 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>previ</find>
+      <find>previewJob</find>
+      <find>console</find>
+      <find>new WamsUserTotalHours</find>
+      <find>All work unit value fields must add up to</find>
+      <find>validate</find>
+      <find>mail</find>
+      <find>fopen</find>
+      <find>formatNamesToArray</find>
+      <find>Please click the link below to access</find>
+      <find>learning_mentors_pending_assignments</find>
+      <find>learning_mentors_pending_assignment</find>
+      <find>var_dump</find>
+      <find>activity</find>
+      <find>year</find>
+      <find>queries</find>
+      <find>EXISTS</find>
+      <find>published</find>
+      <find>buttontitle</find>
+      <find>wa-form-department-ajax</find>
+      <find>WamsUserTotalHours</find>
+      <find>.wa-child</find>
+      <find>.wa-child</find>
+      <find>wa-allocatable-header</find>
+      <find>wams_dm</find>
+      <find>@dropAll</find>
+      <find>trac_report_</find>
+      <find>wams_trac_report_batch_finished</find>
+      <find>dpm</find>
+      <find>addExp</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>onAfterUpdate($entity, $data)</replace>
+      <replace>Simitive\LoggingBundle\Model\Log</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/PhpstormProjects/importer/app</dir>
+      <dir>$USER_HOME$/PhpstormProjects/importer</dir>
+      <dir>$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/sjs/sjs</dir>
+      <dir>$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/sjs/sjs/src/Simitive/SolrBundle</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/web</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/web/js/modules/user</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/src/Simitive/SJSProfileBundle</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/web/js/modules/user/sass</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/src/Simitive/UserBundle/Controller</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/web/js</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/src/Simitive/SJSProfileBundle/DataFixtures</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/web/js/modules/toolkit/templates</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/src/Simitive/JobBundle</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/src/Simitive</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/vendor/lexik/jwt-authentication-bundle/Lexik/Bundle/JWTAuthenticationBundle</dir>
+      <dir>$USER_HOME$/simitive-docker/containers/solr/config/test_sjs</dir>
+      <dir>$USER_HOME$/simitive-docker</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/src/Simitive/SolrBundle</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/app</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/src/Simitive/LoggingBundle</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/src</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/web/js/modules/job/views/listJob</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/web/js/modules/job/templates</dir>
+      <dir>$USER_HOME$/simitive-docker/sjs/web/js/modules</dir>
+      <dir>$USER_HOME$/PhpstormProjects/old_simitive/www/sites/all/modules/custom/wams/modules/wams_import</dir>
+      <dir>$USER_HOME$/PhpstormProjects/importer/src/ImporterBundle</dir>
+      <dir>$USER_HOME$/PhpstormProjects/old_simitive/www/sites/all/modules/custom/wams</dir>
+      <dir>$USER_HOME$/PhpstormProjects/old_simitive/www/sites/all/modules/custom</dir>
+      <dir>$USER_HOME$/PhpstormProjects/importer/src</dir>
+      <dir>$USER_HOME$/PhpstormProjects/old_simitive/www/sites/all/modules/custom/wams/allocation_app/app</dir>
+    </dirStrings>
+  </component>
+</application>

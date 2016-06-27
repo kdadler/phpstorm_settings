@@ -1,0 +1,37 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.10" value="13" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="installation.uid" value="cda172f1-b366-408f-a1d2-2a702390624e" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="101" />
+    <property name="file.chooser.recent.files" value="/mnt/sjs/web/js/vendor&#10;/mnt/sjs/node_modules&#10;/home/kieran/PhpstormProjects/sjs&#10;/usr/share/php&#10;/home/kieran/simitive-docker&#10;/home/kieran/PhpstormProjects/importer/app/logs&#10;/home/kieran/PhpstormProjects/importer/bin&#10;/home/kieran/PhpstormProjects/importer/vendor&#10;/home/kieran/Vagrant/vagrant/trusty/www/Projects/sjs/backend&#10;/home/kieran/PhpstormProjects/old_simitive/www&#10;/home/kieran/PhpstormProjects/old_simitive/www/sites/all/modules/custom/wams/dashboard_app" />
+    <property name="fileTypeChangedCounter" value="11" />
+    <property name="ignore.ibus.blocking.warn.message" value="true" />
+    <property name="KEYMAP" value="commit&#10;format code&#10;line&#10;select&#10;indent" />
+    <property name="selected.color.option.type" value="BASH.HERE_DOC" />
+    <property name="ColorChooser.RecentColors" value="204-91-255-255,,,159-255-117-255,,,159-169-255-255,,,143-156-228-255,,,255-229-43-255,,,20-20-20-255,,,181-238-248-255,,,148-215-248-255,,,224-173-248-255,,,47-50-116-255,,,29-62-116-255" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="settings.code.style.selected.tab.PHP" value="Other" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="HbFormatter" value="enabled" />
+    <property name="HbAutocompleteMustaches" value="enabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="HbDisableAutoGenerateCloseTag" value="enabled" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="idea" />
+    <property name="PLUGIN_FILTER" value="ea&#10;php&#10;annotations&#10;symfony&#10;php inspection" />
+    <property name="evlsprt3.11" value="18" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Spaces" />
+    <property name="dir.diff.space.button.info" value="1" />
+    <property name="dir.diff.filter" value="" />
+  </component>
+</application>

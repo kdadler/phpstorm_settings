@@ -1,0 +1,187 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/PhpstormProjects/old_simitive" />
+        <option value="$USER_HOME$/PhpstormProjects/sjs" />
+        <option value="$USER_HOME$/PhpstormProjects/importer" />
+        <option value="$USER_HOME$/simitive-docker/sjs" />
+        <option value="$USER_HOME$/simitive-docker" />
+        <option value="$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/sjs/sjs" />
+        <option value="$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/review" />
+        <option value="$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/sjs/backend/userbundle" />
+        <option value="$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/sjs/frontend/sjs-job" />
+        <option value="$USER_HOME$/Vagrant/vagrant/trusty/commands" />
+        <option value="$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/sjs/frontend/simitive-app" />
+        <option value="$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/sjs/frontend/sjs-core" />
+        <option value="$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/sjs/frontend/sjs-user" />
+        <option value="$USER_HOME$/PhpstormProjects/review_audit" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/PhpstormProjects/old_simitive" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/PhpstormProjects/old_simitive" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PhpstormProjects/importer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-145.970" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1465475740488" />
+              <option name="buildTimestamp" value="1462230000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PhpstormProjects/old_simitive">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-145.970" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1467033063473" />
+              <option name="buildTimestamp" value="1462230000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PhpstormProjects/review_audit">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-143.1770" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453890345323" />
+              <option name="buildTimestamp" value="1452211200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PhpstormProjects/sjs">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-145.970" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1466430893502" />
+              <option name="buildTimestamp" value="1462230000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Vagrant/vagrant/trusty/commands">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-143.1770" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456765620618" />
+              <option name="buildTimestamp" value="1452211200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/review">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-143.1770" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457600879812" />
+              <option name="buildTimestamp" value="1452211200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/sjs/backend/userbundle">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-143.1770" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457444702463" />
+              <option name="buildTimestamp" value="1452211200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/sjs/frontend/simitive-app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-143.1770" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456507491960" />
+              <option name="buildTimestamp" value="1452211200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/sjs/frontend/sjs-core">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-143.1770" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456507410072" />
+              <option name="buildTimestamp" value="1452211200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/sjs/frontend/sjs-job">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-143.1770" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456835467554" />
+              <option name="buildTimestamp" value="1452211200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/sjs/frontend/sjs-user">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-143.1770" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453896174104" />
+              <option name="buildTimestamp" value="1452211200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Vagrant/vagrant/trusty/www/Projects/sjs/sjs">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-145.258" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458570707316" />
+              <option name="buildTimestamp" value="1458086400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/simitive-docker">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-145.258" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1461081895677" />
+              <option name="buildTimestamp" value="1458086400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/simitive-docker/sjs">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-145.258" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462541356217" />
+              <option name="buildTimestamp" value="1458086400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/simitive-docker" />
+  </component>
+</application>

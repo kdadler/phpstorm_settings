@@ -1,0 +1,211 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="sjs" values="ECMAScript 5.1" collectionTime="1466430933570" />
+      <project id="simitive-app" values="ECMAScript 5.1" collectionTime="1456507664778" />
+      <project id="sjs-user" values="ECMAScript 5.1" collectionTime="1453908004601" />
+      <project id="simitive-docker" values="ECMAScript 5.1" collectionTime="1461082573719" />
+      <project id="sjs-job" values="ECMAScript 5.1" collectionTime="1456836875922" />
+      <project id="review" values="ECMAScript 5.1" collectionTime="1457600906385" />
+      <project id="old_simitive" values="ECMAScript 5.1" collectionTime="1466610654892" />
+      <project id="sjs-core" values="ECMAScript 5.1" collectionTime="1456507418257" />
+      <project id="commands" values="ECMAScript 5.1" collectionTime="1456823473665" />
+      <project id="review_audit" values="ECMAScript 5.1" collectionTime="1453890354518" />
+      <project id="userbundle" values="ECMAScript 5.1" collectionTime="1457447905366" />
+      <project id="importer" values="ECMAScript 5.1" collectionTime="1465475897901" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="sjs" values="not installed" collectionTime="1466430933574" />
+      <project id="simitive-app" values="not installed" collectionTime="1456507664778" />
+      <project id="sjs-user" values="not installed" collectionTime="1453908004601" />
+      <project id="simitive-docker" values="not installed" collectionTime="1461082573722" />
+      <project id="sjs-job" values="not installed" collectionTime="1456836875923" />
+      <project id="review" values="not installed" collectionTime="1457600906390" />
+      <project id="old_simitive" values="not installed" collectionTime="1466610654895" />
+      <project id="sjs-core" values="not installed" collectionTime="1456507418257" />
+      <project id="commands" values="not installed" collectionTime="1456823473665" />
+      <project id="review_audit" values="not installed" collectionTime="1453890354522" />
+      <project id="userbundle" values="not installed" collectionTime="1457447905366" />
+      <project id="importer" values="not installed" collectionTime="1465475897904" />
+    </group>
+    <group name="vcs">
+      <project id="sjs" values="Git" collectionTime="1466430933401" />
+      <project id="simitive-app" values="Git" collectionTime="1456507664774" />
+      <project id="sjs-user" values="Git" collectionTime="1453908004586" />
+      <project id="simitive-docker" values="Git" collectionTime="1461082573569" />
+      <project id="sjs-job" values="Git" collectionTime="1456836875908" />
+      <project id="old_simitive" values="Git" collectionTime="1466610654769" />
+      <project id="sjs-core" values="Git" collectionTime="1456507418254" />
+      <project id="commands" values="Git" collectionTime="1456823473659" />
+      <project id="review_audit" values="Git" collectionTime="1453890354379" />
+      <project id="userbundle" values="Git" collectionTime="1457447905343" />
+      <project id="importer" values="Git" collectionTime="1465475897729" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="sjs" values="com.mysql.jdbc.Driver" collectionTime="1466430933569" />
+      <project id="old_simitive" values="com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver" collectionTime="1466610654891" />
+      <project id="review_audit" values="com.mysql.jdbc.Driver" collectionTime="1453890354517" />
+      <project id="importer" values="com.mysql.jdbc.Driver" collectionTime="1465475897900" />
+    </group>
+    <group name="php-interpreters">
+      <project id="sjs" values="0" collectionTime="1466430933579" />
+      <project id="simitive-app" values="0" collectionTime="1456507664778" />
+      <project id="sjs-user" values="0" collectionTime="1453908004601" />
+      <project id="simitive-docker" values="0" collectionTime="1461082573726" />
+      <project id="sjs-job" values="0" collectionTime="1456836875923" />
+      <project id="review" values="0" collectionTime="1457600906392" />
+      <project id="old_simitive" values="0" collectionTime="1466610654898" />
+      <project id="sjs-core" values="0" collectionTime="1456507418257" />
+      <project id="commands" values="0" collectionTime="1456823473665" />
+      <project id="review_audit" values="0" collectionTime="1453890354523" />
+      <project id="userbundle" values="0" collectionTime="1457447905366" />
+      <project id="importer" values="0" collectionTime="1465475897908" />
+    </group>
+    <group name="file-type">
+      <project id="sjs" values="XML,Handlebars/Mustache,HTML,PHAR,ReST,CSS,Twig,Images,PHP,YAML,Git file,C++,TypeScript,PLAIN_TEXT,Locale,JSON,SQL,Bash,Ini,JavaScript,UNKNOWN,htaccess,SmartyConfig,SCSS,ARCHIVE" collectionTime="1466430933424" />
+      <project id="simitive-app" values="JSON,JavaScript,PLAIN_TEXT,UNKNOWN,Git file,XML" collectionTime="1456507664776" />
+      <project id="sjs-user" values="Native,Less,JSHint file,ReST,SmartyConfig,PATCH,Bash,XML,UNKNOWN,JavaScript,Handlebars/Mustache,SourceMap,ESLint,Npm file,PLAIN_TEXT,ARCHIVE,JSON,CSS,Git file,JSHint,YAML,Images,HTML,SCSS,C++,CoffeeScript,JSCS" collectionTime="1453908004598" />
+      <project id="simitive-docker" values="Dockerfile,YAML,Git file,UNKNOWN,Images,HTML,CSS,Native,RNG Compact,htaccess,Twig,Locale,PATCH,JSON,XML,Bash,Handlebars/Mustache,PHP,ARCHIVE,PHAR,DATASOURCE_STORAGE,C++,CoffeeScript,JSCS,SQL,Less,SourceMap,PLAIN_TEXT,ReST,JSHint file,TypeScript,Ini,Npm file,JavaScript,SCSS,ESLint file,JSHint,Docker file,SmartyConfig,ESLint" collectionTime="1461082573577" />
+      <project id="sjs-job" values="Less,XML,Bash,CSS,HTML,CoffeeScript,Npm file,JavaScript,JSHint file,C++,PLAIN_TEXT,Handlebars/Mustache,JSCS,SourceMap,PATCH,JSHint,UNKNOWN,ARCHIVE,Images,Git file,ESLint,Native,JSON,SCSS,YAML,SmartyConfig,Ignore file" collectionTime="1456836875919" />
+      <project id="review" values="Twig,HTML,PHP,Ini,Bash,TypeScript,SQL,XML,Locale,Images,htaccess,C++,YAML,CSS,PLAIN_TEXT,ReST,Git file,PHAR,UNKNOWN,JSON" collectionTime="1457600906273" />
+      <project id="old_simitive" values="JSHint file,Npm file,ARCHIVE,HTML,CoffeeScript,UNKNOWN,Ini,ESLint,Bash,HAML,JSHint,htaccess,ReST,SmartyConfig,CSS,JSON,SourceMap,XML,Git file,PATCH,SCSS,Locale,JavaScript,C++,SQL,PLAIN_TEXT,Docker file,EJS,Handlebars/Mustache,Images,YAML,JSCS,Less,ESLint file,PHP,Sass,Native" collectionTime="1466610654797" />
+      <project id="sjs-core" values="CSS,HTML,Git file,ARCHIVE,Bash,SmartyConfig,JSHint,Handlebars/Mustache,C++,PLAIN_TEXT,XML,SourceMap,PATCH,JavaScript,Images,Less,YAML,ReST,Npm file,PHP,UNKNOWN,SCSS,JSHint file,Ignore file,JSON,CoffeeScript,ESLint,Native,JSCS" collectionTime="1456507418256" />
+      <project id="commands" values="XML,Bash,Git file,PLAIN_TEXT,UNKNOWN" collectionTime="1456823473664" />
+      <project id="review_audit" values="DATASOURCE_STORAGE,Git file,XML,PHP,PLAIN_TEXT,JSON,UNKNOWN" collectionTime="1453890354408" />
+      <project id="userbundle" values="PLAIN_TEXT,JavaScript,PHAR,Ini,ARCHIVE,C++,SmartyConfig,Locale,JSON,Native,UNKNOWN,CSS,RNG Compact,TypeScript,Bash,Git file,SQL,HTML,Images,htaccess,ReST,XML,YAML,PHP,Twig" collectionTime="1457447905362" />
+      <project id="importer" values="PHAR,Git file,Twig,UNKNOWN,CSS,Locale,XML,JavaScript,SmartyConfig,PLAIN_TEXT,Bash,SourceMap,Images,ReST,TypeScript,JSON,YAML,SQL,Ini,C++,Scratch,PHP,ARCHIVE,HTML,htaccess" collectionTime="1465475897789" />
+    </group>
+    <group name="Drupal Support">
+      <project id="old_simitive" values="Drupal_7" collectionTime="1466610654908" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="sjs" values="MySQL/5.7.12-0ubuntu1" collectionTime="1466430933569" />
+      <project id="old_simitive" values="MySQL/5.5.49-0ubuntu0.14.04.1,MySQL/5.5.47-0ubuntu0.14.04.1,MySQL/5.5.47-0ubuntu0.14.04.1,MySQL/5.5.47-0ubuntu0.14.04.1,MySQL/5.5.47-0ubuntu0.14.04.1,MySQL/5.5.47-0ubuntu0.14.04.1,MySQL/5.5.47-0ubuntu0.14.04.1,MySQL/5.5.47-0ubuntu0.14.04.1,MySQL/5.5.49-0ubuntu0.14.04.1" collectionTime="1466610654891" />
+      <project id="review_audit" values="MySQL/5.5.46-0ubuntu0.14.04.2" collectionTime="1453890354517" />
+      <project id="importer" values="MySQL/5.5.47-0ubuntu0.14.04.1" collectionTime="1465475897900" />
+    </group>
+    <group name="Git">
+      <project id="sjs" values="config.ssh.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,data.remote.branches.count.100+,data.remotes.in.project.1,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+,config.push.update.all.roots.enabled,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1466430933432" />
+      <project id="simitive-app" values="config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.remote.branches.count.15+,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.1" collectionTime="1456507664777" />
+      <project id="sjs-user" values="config.warn.about.detached.enabled,data.remotes.in.project.1,data.remote.branches.count.15+,data.local.branches.count.2+,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1453908004599" />
+      <project id="simitive-docker" values="config.warn.about.detached.enabled,config.save.policy.STASH,data.remotes.in.project.1,config.force.push.enabled,data.local.branches.count.2+,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,data.remote.branches.count.2+,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1461082573586" />
+      <project id="sjs-job" values="config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.8+,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.autoupdate.disabled,data.local.branches.count.2+,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.force.push.enabled" collectionTime="1456836875920" />
+      <project id="review" values="config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled" collectionTime="1457600906279" />
+      <project id="old_simitive" values="data.local.branches.count.50+,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,data.remote.branches.count.100+,config.save.policy.STASH" collectionTime="1466610654804" />
+      <project id="sjs-core" values="config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,data.remote.branches.count.5+,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,data.local.branches.count.2+,data.remotes.in.project.1,config.warn.about.detached.enabled" collectionTime="1456507418256" />
+      <project id="commands" values="config.push.update.all.roots.enabled,config.save.policy.STASH,data.remotes.in.project.1,data.local.branches.count.1,config.warn.about.crlf.enabled,config.force.push.enabled,data.remote.branches.count.5+,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.detached.enabled" collectionTime="1456823473664" />
+      <project id="review_audit" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,data.remote.branches.count.1,config.push.autoupdate.disabled,data.local.branches.count.1,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.ssh.enabled" collectionTime="1453890354414" />
+      <project id="userbundle" values="config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,data.local.branches.count.2+,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,data.remote.branches.count.30+,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1457447905363" />
+      <project id="importer" values="config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.save.policy.STASH,config.push.autoupdate.disabled,data.local.branches.count.5+,config.ssh.enabled,data.remote.branches.count.2+,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1465475897796" />
+    </group>
+    <group name="deployment server">
+      <project id="sjs" values="MOUNT" collectionTime="1466430933570" />
+      <project id="old_simitive" values="MOUNT" collectionTime="1466610654892" />
+      <project id="review_audit" values="MOUNT" collectionTime="1453890354518" />
+      <project id="importer" values="MOUNT" collectionTime="1465475897901" />
+    </group>
+    <group name="module type">
+      <project id="sjs" values="WEB_MODULE" collectionTime="1466430933402" />
+      <project id="simitive-app" values="WEB_MODULE" collectionTime="1456507664774" />
+      <project id="sjs-user" values="WEB_MODULE" collectionTime="1453908004586" />
+      <project id="simitive-docker" values="WEB_MODULE" collectionTime="1461082573570" />
+      <project id="sjs-job" values="WEB_MODULE" collectionTime="1456836875908" />
+      <project id="review" values="WEB_MODULE" collectionTime="1457600906216" />
+      <project id="old_simitive" values="WEB_MODULE" collectionTime="1466610654769" />
+      <project id="sjs-core" values="WEB_MODULE" collectionTime="1456507418254" />
+      <project id="commands" values="WEB_MODULE" collectionTime="1456823473659" />
+      <project id="review_audit" values="WEB_MODULE" collectionTime="1453890354379" />
+      <project id="userbundle" values="WEB_MODULE" collectionTime="1457447905343" />
+      <project id="importer" values="WEB_MODULE" collectionTime="1465475897729" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="sjs" values="Project,Project" collectionTime="1466430933570" />
+      <project id="simitive-app" values="Project,Project" collectionTime="1456507664778" />
+      <project id="sjs-user" values="Project,Project" collectionTime="1453908004601" />
+      <project id="simitive-docker" values="Project,Project" collectionTime="1461082573719" />
+      <project id="sjs-job" values="Project,Project" collectionTime="1456836875922" />
+      <project id="review" values="Project,Project" collectionTime="1457600906385" />
+      <project id="old_simitive" values="Project,Project" collectionTime="1466610654892" />
+      <project id="sjs-core" values="Project,Project" collectionTime="1456507418257" />
+      <project id="commands" values="Project,Project" collectionTime="1456823473665" />
+      <project id="review_audit" values="Project,Project" collectionTime="1453890354518" />
+      <project id="userbundle" values="Project,Project" collectionTime="1457447905366" />
+      <project id="importer" values="Project,Project" collectionTime="1465475897901" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="sjs" values="0" collectionTime="1466430933580" />
+      <project id="simitive-app" values="0" collectionTime="1456507664778" />
+      <project id="sjs-user" values="0" collectionTime="1453908004601" />
+      <project id="simitive-docker" values="0" collectionTime="1461082573727" />
+      <project id="sjs-job" values="0" collectionTime="1456836875923" />
+      <project id="review" values="0" collectionTime="1457600906393" />
+      <project id="old_simitive" values="0" collectionTime="1466610654899" />
+      <project id="sjs-core" values="0" collectionTime="1456507418257" />
+      <project id="commands" values="0" collectionTime="1456823473665" />
+      <project id="review_audit" values="0" collectionTime="1453890354524" />
+      <project id="userbundle" values="0" collectionTime="1457447905366" />
+      <project id="importer" values="0" collectionTime="1465475897909" />
+    </group>
+    <group name="php-servers">
+      <project id="sjs" values="0" collectionTime="1466430933574" />
+      <project id="simitive-app" values="0" collectionTime="1456507664778" />
+      <project id="sjs-user" values="0" collectionTime="1453908004601" />
+      <project id="simitive-docker" values="0" collectionTime="1461082573722" />
+      <project id="sjs-job" values="0" collectionTime="1456836875923" />
+      <project id="review" values="0" collectionTime="1457600906390" />
+      <project id="old_simitive" values="0" collectionTime="1466610654895" />
+      <project id="sjs-core" values="0" collectionTime="1456507418257" />
+      <project id="commands" values="0" collectionTime="1456823473665" />
+      <project id="review_audit" values="0" collectionTime="1453890354522" />
+      <project id="userbundle" values="0" collectionTime="1457447905366" />
+      <project id="importer" values="0" collectionTime="1465475897904" />
+    </group>
+    <group name="php-include-path">
+      <project id="sjs" values="0" collectionTime="1466430933571" />
+      <project id="simitive-app" values="0" collectionTime="1456507664778" />
+      <project id="sjs-user" values="0" collectionTime="1453908004601" />
+      <project id="simitive-docker" values="0" collectionTime="1461082573720" />
+      <project id="sjs-job" values="0" collectionTime="1456836875922" />
+      <project id="review" values="0" collectionTime="1457600906385" />
+      <project id="old_simitive" values="1" collectionTime="1466610654893" />
+      <project id="sjs-core" values="0" collectionTime="1456507418257" />
+      <project id="commands" values="0" collectionTime="1456823473665" />
+      <project id="review_audit" values="0" collectionTime="1453890354519" />
+      <project id="userbundle" values="0" collectionTime="1457447905366" />
+      <project id="importer" values="0" collectionTime="1465475897902" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="308" />
+      <entry feature="diff.DirDiffTableModel" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="1" />
+      <entry feature="ide.settings.Appearance" count="19" />
+      <entry feature="ide.settings.Bash" count="2" />
+      <entry feature="ide.settings.Code_Style" count="7" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Deployment" count="22" />
+      <entry feature="ide.settings.Directories" count="1" />
+      <entry feature="ide.settings.File_Status" count="2" />
+      <entry feature="ide.settings.Font" count="20" />
+      <entry feature="ide.settings.General" count="3" />
+      <entry feature="ide.settings.HTML" count="2" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.JSON" count="1" />
+      <entry feature="ide.settings.JavaScript" count="3" />
+      <entry feature="ide.settings.Keymap" count="12" />
+      <entry feature="ide.settings.Language_Defaults" count="2" />
+      <entry feature="ide.settings.PHP" count="16" />
+      <entry feature="ide.settings.Plugins" count="3" />
+      <entry feature="ide.settings.SQL_Dialects" count="2" />
+      <entry feature="ide.settings.Smart_Keys" count="1" />
+      <entry feature="ide.settings.Vagrant" count="1" />
+      <entry feature="ide.settings.YAML" count="2" />
+      <entry feature="ide.settings.Yaml" count="2" />
+      <entry feature="ideaapp.started" count="101" />
+      <entry feature="terminal.linux" count="175" />
+      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="2" />
+    </counts>
+  </component>
+</application>
